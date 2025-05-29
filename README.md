@@ -1,5 +1,3 @@
-# Hi, I'm isostack
-
 Python, C++, Java, C, ARM Assembly, Go
 
 🧠 Projects:
