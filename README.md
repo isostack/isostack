@@ -1,4 +1,4 @@
-Python, C++, Java, C, ARM Assembly
+Python, C++, Java, C, Go, React
 
 🧠 Projects:
 - **[Distributed File System](https://github.com/isostack/distributed-file-system)** – C++ RESTful FS, thread-safe I/O, and custom on-disk layout
